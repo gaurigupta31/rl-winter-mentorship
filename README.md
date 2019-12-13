@@ -131,7 +131,7 @@ Mathematical foundation of RL - Markov Decision Processes.
 
   2. [Intuitive] [Reinforcement Learning Demystified: Markov Decision Processes](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690)
 
-- [x][Lecture] [David Silver Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
+- [x] [Lecture] [David Silver Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
 
 Deliverables:
 
