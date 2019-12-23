@@ -127,9 +127,9 @@ work and prerequisites. Also, some *pop-sciency* knowledge never hurt anyone:
 
 Mathematical foundation of RL - Markov Decision Processes.
 
-  1. [TextBook] Chapter 3 from SnB: Finite Markov Decision Processes
+- [x] [TextBook] Chapter 3 from SnB: Finite Markov Decision Processes
 
-  2. [Intuitive] [Reinforcement Learning Demystified: Markov Decision Processes](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690)
+- [x] [Intuitive] [Reinforcement Learning Demystified: Markov Decision Processes](https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690)
 
 - [x] [Lecture] [David Silver Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
 
@@ -144,11 +144,11 @@ the report.
 
 Tabular methods
 
-  1. [TextBook] Chapter 4 from SnB: Dynamic Programming
+- [ ] [TextBook] Chapter 4 from SnB: Dynamic Programming
 
-  2. [Intuitive, Code] [Medium article](https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa)
+- [x] [Intuitive, Code] [Medium article](https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa)
 
-  3. [Lecture] [David Silver Lecture 3](https://www.youtube.com/watch?v=Nd1-UUMVfz4)
+- [ ] [Lecture] [David Silver Lecture 3](https://www.youtube.com/watch?v=Nd1-UUMVfz4)
 
 Deliverables:
 
